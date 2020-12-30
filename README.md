@@ -1,3 +1,3 @@
-# panda_task1
+# Functionality
 
-Implementation of the recruitment task.
+A system that allows the user to register as well as log in. Immediately after that, we will be able to handle and post news on the website.
